@@ -7,8 +7,8 @@ class Task1
         MultiBuilding multiBuilding = new MultiBuilding(
             "г. Москва, ул. Ленина, д.2",
             1200,
-            67,
-            52,
+            55,
+            79,
             23);
 
         Console.WriteLine(multiBuilding.Print());
